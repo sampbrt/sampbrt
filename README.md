@@ -1,6 +1,6 @@
 # Oi, eu sou o Samuel 👋
 
-> [Contato](https://linktr.ee/sampereirabrt)
+> + [Contato](https://linktr.ee/sampereirabrt)
 
 # Meus projetos Web 🌐
 > + [youtubeHomepageClone](https://sampbrt.github.io/youtubeHomepageClone/)
