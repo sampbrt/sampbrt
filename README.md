@@ -1,5 +1,6 @@
 # Oi, eu sou o Samuel 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampbrt&layout=compact)
 + [Contato](https://linktr.ee/sampereirabrt)
 
 # Meus projetos Web 🌐
@@ -10,4 +11,4 @@
 + [Autikids: Vídeo de Apresentação](https://www.youtube.com/watch?v=gwaOvcCb9-w)
 + [Autikids: Vídeo demonstrativo](https://www.youtube.com/watch?v=HsBhddAzQME)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampbrt&layout=compact)
+
