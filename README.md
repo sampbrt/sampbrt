@@ -12,3 +12,4 @@
 + [Autikids: Vídeo demonstrativo](https://www.youtube.com/watch?v=HsBhddAzQME)
 
 
+[![My Skills](https://skillicons.dev/icons?i=instagram&perline=3)](https://portal.gupy.io/my/applications)
