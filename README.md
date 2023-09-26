@@ -1,3 +1,3 @@
 ## Oi, eu sou o Samuel 👋
 
-> [Entre em contato](https://linktr.ee/sampereirabrt)
+> [Contato](https://linktr.ee/sampereirabrt)
