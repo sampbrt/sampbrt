@@ -2,10 +2,10 @@
 
 > [Contato](https://linktr.ee/sampereirabrt)
 
-## 🌐 Meus projetos Web:
+## Meus projetos Web 🌐
 > + [youtubeHomepageClone](https://sampbrt.github.io/youtubeHomepageClone/)
 > + [Oqfz(Todo list)](https://sampbrt.github.io/Oqfz-Todo-list/)
 
-## 🎥 Meus vídeos:
+## Meus vídeos 🎥
 > + [Autikids: Vídeo de Apresentação](https://www.youtube.com/watch?v=gwaOvcCb9-w)
 > + [Autikids: Vídeo demonstrativo](https://www.youtube.com/watch?v=HsBhddAzQME)
