@@ -1,9 +1,15 @@
-# **[Oi, eu sou o Samuel 👋](https://linktr.ee/sampereirabrt)**
+<h1 align="center" href="https://linktr.ee/sampereirabrt" target="_blank">
+  Oi, eu sou o Samuel 👋
+</h1>
 
-<a href="https://github.com/sampbrt/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sampbrt&theme=tokyonight&card_width=270" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampbrt&layout=compact&langs_count=4&card_width=270&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/sampbrt/">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=sampbrt&theme=tokyonight&card_width=270" />
+  </a>
+  <a href="https://github.com/sampbrt/">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=sampbrt&layout=compact&langs_count=4&card_width=270&theme=tokyonight" />
+  </a>
+</p>
 
 # [Contato](https://linktr.ee/sampereirabrt) 📧
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sampereirabrt)
