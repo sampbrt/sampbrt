@@ -1,8 +1,8 @@
 # **[Oi, eu sou o Samuel 👋](https://linktr.ee/sampereirabrt)**
 
 <a href="https://linktr.ee/sampereirabrt">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sampbrt&theme=tokyonight&card_width=270&show_icons=true" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampbrt&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=sampbrt&theme=tokyonight&card_width=300&show_icons=true" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampbrt&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
 </a>
 
 # [Contato](https://linktr.ee/sampereirabrt) 📧
