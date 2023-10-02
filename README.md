@@ -1,8 +1,8 @@
 # **[Oi, eu sou o Samuel 👋](https://linktr.ee/sampereirabrt)**
 
 <a href="https://linktr.ee/sampereirabrt">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=sampbrt&theme=tokyonight&card_width=300&show_icons=true" />
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampbrt&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sampbrt&theme=tokyonight&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampbrt&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 
 # [Contato](https://linktr.ee/sampereirabrt) 📧
@@ -13,6 +13,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sampereirabrt/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sampbrt)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sampbrtdesign)
+
+# [Meu Portfólio]() 📁
 
 # [Meus projetos Web](https://linktr.ee/sampereirabrt) 🌐
 + [youtubeHomepageClone](https://sampbrt.github.io/youtubeHomepageClone/)
