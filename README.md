@@ -20,6 +20,7 @@
 # [Meus projetos Web](https://linktr.ee/sampereirabrt) 🌐
 + [youtubeHomepageClone](https://samubarreto.github.io/youtubeHomepageClone/)
 + [Oqfz(Todo list)](https://samubarreto.github.io/Oqfz-Todo-list/)
++ [JS-Calculator](https://samubarreto.github.io/js-calculator/)
 
 # [Meus vídeos](https://linktr.ee/sampereirabrt) 🎥
 + [Autikids: Vídeo de Apresentação](https://www.youtube.com/watch?v=gwaOvcCb9-w)
