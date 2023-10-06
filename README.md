@@ -1,6 +1,6 @@
 # **[Oi, eu sou o Samuel 👋](https://linktr.ee/sampereirabrt)**
 
-<a href="https://linktr.ee/sampereirabrt">
+<a href="https://linktr.ee/sampereirabrt" target="_blank">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=samubarreto&theme=tokyonight&show_icons=true" />
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samubarreto&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
