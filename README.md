@@ -18,9 +18,9 @@
 + [Em produção](https://samubarreto.github.io/Portfolio/) 🔨
 
 # [Meus projetos Web](https://linktr.ee/sampereirabrt) 🌐
++ [JS-Calculator](https://samubarreto.github.io/js-calculator/)
 + [youtubeHomepageClone](https://samubarreto.github.io/youtubeHomepageClone/)
 + [Oqfz(Todo list)](https://samubarreto.github.io/Oqfz-Todo-list/)
-+ [JS-Calculator](https://samubarreto.github.io/js-calculator/)
 
 # [Meus vídeos](https://linktr.ee/sampereirabrt) 🎥
 + [Autikids: Vídeo de Apresentação](https://www.youtube.com/watch?v=gwaOvcCb9-w)
