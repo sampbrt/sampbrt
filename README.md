@@ -1,4 +1,4 @@
-# **[Oi, eu sou o Samuel 👋](https://linktr.ee/sampereirabrt)**
+# **[Oi, eu sou o Samuel 👋](https://linktr.ee/sampereirabrt)** ![](https://komarev.com/ghpvc/?username=samubarreto)
 
 <a href="https://linktr.ee/sampereirabrt" target="_blank">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=samubarreto&theme=tokyonight&show_icons=true" />
@@ -25,5 +25,3 @@
 # [Meus vídeos](https://linktr.ee/sampereirabrt) 🎥
 + [Autikids: Vídeo de Apresentação](https://www.youtube.com/watch?v=gwaOvcCb9-w)
 + [Autikids: Vídeo Demonstrativo](https://www.youtube.com/watch?v=HsBhddAzQME)
-
-![](https://komarev.com/ghpvc/?username=samubarreto)
