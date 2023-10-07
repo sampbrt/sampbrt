@@ -25,3 +25,5 @@
 # [Meus vídeos](https://linktr.ee/sampereirabrt) 🎥
 + [Autikids: Vídeo de Apresentação](https://www.youtube.com/watch?v=gwaOvcCb9-w)
 + [Autikids: Vídeo Demonstrativo](https://www.youtube.com/watch?v=HsBhddAzQME)
+
+![](https://komarev.com/ghpvc/?username=samubarreto)
