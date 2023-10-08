@@ -17,7 +17,7 @@
   [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sampbrtdesign)
   
   # [Meu Portfólio](https://github.com/samubarreto/Portfolio) 📁
-  [Em produção](https://samubarreto.github.io/Portfolio/) 🔨 <br>
+  [Em construção](https://samubarreto.github.io/Portfolio/) 🔨 <br>
   
   # [Meus projetos Web](https://linktr.ee/sampereirabrt) 🌐
   [JS-Calculator](https://samubarreto.github.io/js-calculator/)<br>
