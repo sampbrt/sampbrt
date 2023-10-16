@@ -21,9 +21,9 @@
   
   # [🌐 Meus projetos Web](https://linktr.ee/sampereirabrt)
   [JS-Calculator](https://samubarreto.github.io/js-calculator/)<br>
+  [JS-Jokempô](https://samubarreto.github.io/js-jokempo/)<br>
   [youtubeHomepageClone](https://samubarreto.github.io/youtubeHomepageClone/)<br>
   [Oqfz(Todo list)](https://samubarreto.github.io/Oqfz-Todo-list/)<br>
-  [JS-Jokempô](https://samubarreto.github.io/js-jokempo/)<br>
   
   # [🎥 Meus vídeos](https://linktr.ee/sampereirabrt)
   [Autikids: Vídeo de Apresentação](https://www.youtube.com/watch?v=gwaOvcCb9-w)<br>
