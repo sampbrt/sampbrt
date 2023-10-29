@@ -22,6 +22,7 @@
   ## [📖 Pretendo aprender](https://www.linkedin.com/in/samubrreto/)
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://www.linkedin.com/in/samubrreto/)
   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
+  [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
   
   ## [📁 Meu Portfólio](https://github.com/samubarreto/Portfolio)
   [Em construção 🔨](https://samubarreto.github.io/Portfolio/) <br>
