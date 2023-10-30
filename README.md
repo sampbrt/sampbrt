@@ -1,6 +1,8 @@
 <div align="center">
+
+  [<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Eai!+👋;+Eu+sou+o+Samuel!+😄;" />](https://linktr.ee/sampereirabrt)
   
-  # **[Oi, eu sou o Samuel 👋](https://linktr.ee/sampereirabrt)** ![](https://komarev.com/ghpvc/?username=samubarreto)
+  ![](https://komarev.com/ghpvc/?username=samubarreto)
   
   <a href="https://linktr.ee/sampereirabrt" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=samubarreto&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&padding=0px" />
