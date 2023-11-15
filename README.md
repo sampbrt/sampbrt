@@ -7,8 +7,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samubarreto&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true&padding=0px" />
   </a>
 
-  ## [📁 Meu Portfólio](https://github.com/samubarreto/Portfolio)
-  [Em construção 🔨](https://samubarreto.github.io/Portfolio/) <br>
+  # [📁 Meu Portfólio](https://github.com/samubarreto/Portfolio)
+  [Clique Aqui ↗️](https://samubarreto.github.io/Portfolio/) <br>
 
   ## [📖 Estou aprendendo](https://www.linkedin.com/in/samubrreto/)
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
