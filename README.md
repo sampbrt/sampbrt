@@ -8,7 +8,7 @@
   </a>
 
   # [📁 Meu Portfólio](https://github.com/samubarreto/Portfolio)
-  [Clique Aqui ↗️](https://samubarreto.github.io/Portfolio/) <br>
+  [(Em construção) Clique Aqui ↗️](https://samubarreto.github.io/Portfolio/) <br>
 
   ## [📖 Estou aprendendo](https://www.linkedin.com/in/samubrreto/)
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
