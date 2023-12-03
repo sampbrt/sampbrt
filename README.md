@@ -1,11 +1,6 @@
 <div align="center">
 
   # 👋 Oi, eu sou o Samuel
-  
-  <a href="https://linktr.ee/sampereirabrt" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=samubarreto&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&padding=0px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samubarreto&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true&padding=0px" />
-  </a>
 
   # [📁 Meu Portfólio (Clique Aqui ↗️)](https://samubarreto.github.io/Portfolio/)
   [![github-banner](https://github.com/samubarreto/samubarreto/assets/70921394/e24ccd55-edf4-4648-b0f9-ebf9b13a67cc)](https://samubarreto.github.io/Portfolio/)
