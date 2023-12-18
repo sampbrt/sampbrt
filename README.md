@@ -3,7 +3,7 @@
   # 👋 Oi, eu sou o Samuel
 
   ## [📁 Meu Portfólio (Clique Aqui ↗️)](https://samubarreto.github.io/Portfolio/)
-  [![github-banner](https://github.com/samubarreto/samubarreto/assets/70921394/4b00330b-3c48-4d9c-9ece-9c5b19992adf)](https://samubarreto.github.io/Portfolio/)
+  [![github-banner](https://github.com/samubarreto/samubarreto/assets/70921394/80a40ca1-0f0a-4042-a002-1f034a4e9b48)](https://samubarreto.github.io/Portfolio/)
   
   ## [📖 Estou aprendendo](https://www.linkedin.com/in/samubrreto/)
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
