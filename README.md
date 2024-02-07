@@ -10,4 +10,6 @@
   [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/samubarreto)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samu.barreto2004@gmail.com)
 
+  ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samubarreto&show_icons=true&theme=transparent)
+
 </div>
