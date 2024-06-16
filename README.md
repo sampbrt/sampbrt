@@ -2,8 +2,7 @@
 
   # 👋 Oi, eu sou o Samuel<br>
   
-  [👇 Veja meu portfólio abaixo](https://samubarreto.github.io/Portfolio/)<br>
-  [![github-banner](https://github.com/samubarreto/samubarreto/assets/70921394/09b2b8b6-8264-4e34-a224-bf009f7307b5)](https://samubarreto.github.io/Portfolio/)
+  [👉 Veja meu portfólio aqui](https://samubarreto.github.io/Portfolio/)<br>
  
   [📧 Contato](https://linktr.ee/samubarreto)<br><br>
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
